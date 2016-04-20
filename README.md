@@ -1,6 +1,8 @@
 # CitrusByte
 
-## FizzBuzz implementation
+FizzBuzz(Dazz) implementation
+
+## Content
 
 * [Preview](#preview)
 * [Setup](#setup)
@@ -13,6 +15,9 @@ Currently the following events are supplied:
 - Multiple of 3 -> `Fizz`
 - Multiple of 5 -> `Buzz`
 - Multiple of 7 -> `Dazz`
+
+From these base events, multilpies can be combined:
+
 - If multiple to more than one number, it concatenates the according strings ->
   Multiple of 3 and 5 -> `FizzBuzz` / Multiple of 5 and 7 -> `BuzzDazz`
 - If multiple to 0 -> concatenates all strings, since 0 is multiple of all
