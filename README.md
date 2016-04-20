@@ -23,6 +23,8 @@ From these base events, multilpies can be combined:
 - If multiple to 0 -> concatenates all strings, since 0 is multiple of all
   numbers -> `FizzBuzzDazz`
 
+FizzBuzz lib (main logic) could be found at `src/lib/fizzbuzz.js`.
+
 ## Setup
 
 ```
